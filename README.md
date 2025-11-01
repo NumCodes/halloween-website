@@ -71,7 +71,7 @@ This project features a modern spooky UI/UX with interactive sliders, animated s
     
 ## 🌍 Live Demo
 👉 View Live Website
-
+https://halloween-website-neon.vercel.app/
 
 ## 📸 Preview
 ![Halloween Preview](./halloweenpreview.png)  
